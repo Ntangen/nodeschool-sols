@@ -1,3 +1,3 @@
 # nodeschool-sols
 
-Git error. Lost all my saved files here. Will try to retrieve later.
+I'm keeping all of my solutions to the [Nodeschool](http://nodeschool.io/#workshopper-list) workshops I do here for reference.
